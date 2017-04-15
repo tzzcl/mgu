@@ -21,9 +21,9 @@ This packages are free for academic usage. You can run them at your own risk. Fo
 ```
 python IRNN_gru_2014.py
 ```
-###to perform the experiment with the GRU layer.
-###and you can run
+#### to perform the experiment with the GRU layer.
+#### and you can run
 ```
 python IRNN_gru_2015.py
 ```
-###to perform the experiment with our MGU layer.
+#### to perform the experiment with our MGU layer.
