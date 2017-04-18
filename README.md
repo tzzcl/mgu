@@ -1,6 +1,6 @@
 # Code For Minimal Gated Unit(MGU)
 
-## This repository contains code and some experiments for Minimal Gated Unit. For any problem concerning the code, please feel free to contact Mr. Chen-Lin Zhang (zhangcl@lamda.nju.edu.cn). 
+## This repository contains code and some experiments for Minimal Gated Unit in paper *Minimal gated unit for recurrent neural networks*. For any problem concerning the code, please feel free to contact Mr. Chen-Lin Zhang (zhangcl@lamda.nju.edu.cn). 
 ## This packages are free for academic usage. You can run them at your own risk. For other purposes, please contact Prof. Jianxin Wu (wujx2001@gmail.com)
 
 ## Operating System:
@@ -27,3 +27,5 @@ python IRNN_gru_2014.py
 python IRNN_gru_2015.py
 ```
 #### to perform the experiment with our MGU layer.
+
+[1] G.-B Zhou, J.-X. Wu, C.-L. Zhang, Z.-H. Zhou, Minimal gated unit for recurrent neural networks. International Journal of Automation and Computing, 2016, 13(3): 226-234.
